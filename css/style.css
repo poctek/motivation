@@ -21,6 +21,7 @@ body {
   -webkit-flex-direction: column;
   -webkit-font-smoothing: antialiased;
   -webkit-justify-content: center;
+  background-color: rgb(16, 23, 30);
 }
 
 body, input {
@@ -36,7 +37,7 @@ body, input {
 }
 
 .count {
-  color: #494949;
+  color: #b0b5ba;
   margin: 0;
   font-size: 6rem;
   line-height: 1;
